@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "app-one",
+    "app-two",
+    "shared"
+  ]
+}

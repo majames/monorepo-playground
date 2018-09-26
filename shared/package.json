@@ -1,0 +1,20 @@
+{
+  "name": "mj-shared",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/add.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.0.3",
+    "react": "^15.0.0",
+    "@types/react": "^15.0.0"
+  },
+  "peerDependencies": {
+    "react": "^15.0.0 || ^16.0.0"
+  },
+  "private": true
+}
